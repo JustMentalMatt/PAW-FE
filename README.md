@@ -11,3 +11,13 @@
 > animal companions are always nurtured and cared for.*
 
 ***Whether you struggle to feed your beloved furry friend, or aren't around to feed them, the PAWS feeding device has got your back!***
+
+Info:
+=
+This is part of my CCEA Technology & Design A2 coursework for my project, mainly contributing to the software aspect of the project which encompasses the majority of it, being made with a micro-controller flashed with the Arduino IDE and coded in C++ for ease of support.
+
+Expected files include:
+- 3D-Schematics and Models
+- Relevant Code (Arduino)
+- Circuit Diagrams and Component Information
+- etc...
