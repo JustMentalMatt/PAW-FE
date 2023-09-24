@@ -1,4 +1,4 @@
-The **P.A.W.S** feeding device (Pet Automated Wellness System) is a cutting-edge automated system designed to ensure the well-being of pets while providing convenience for pet owners, including those with various needs.
+## The **P.A.W.S** feeding device (Pet Automated Wellness System) is a cutting-edge automated system designed to ensure the well-being of pets while providing convenience for pet owners, including those with various needs.
 
 > *The system uses advanced sensors to detect the presence of animals and employs an intelligent algorithm to dispense appropriate amounts
 > of food.*
